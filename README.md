@@ -1,6 +1,12 @@
-Desafio Técnico -  FEBACAPITAL
+# Desafio Técnico -  FEBACAPITAL(Frontend)
 
-## Primeiro passos 
+Este repositório contém a implementação do desafio técnico da FEBACAPITAL.
+
+## Primeiro passos 🚀
+
+### Pré-requisitos
+- [Node.js](https://nodejs.org/) instalado (versão recomendada: 18+)
+- npm ou yarn
 
 1 - Clone o repositorio ou faça o download 
 
@@ -27,6 +33,6 @@ npm install
 npm run dev
 
 ```
-4 -  O projeto rodará em 
+4 -  O projeto está disponível em 
 
  http://localhost:3000
